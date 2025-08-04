@@ -1,13 +1,13 @@
 # FUTURE_CS_02
 SECURITY ALERT MONITORING &amp; INCIDENT  RESPONSE
-# 🛡️ Cybersecurity Internship Task 2 – SOC Alert Monitoring & Incident Response
+# Cybersecurity Internship Task 2 – SOC Alert Monitoring & Incident Response
 
 This repository contains my work for **Task 2** of the Cybersecurity Internship by **Future Interns**.  
 The task simulates the role of a SOC (Security Operations Center) analyst — detecting, analyzing, and responding to security threats using SIEM tools.
 
 ---
 
-## 📌 Task Overview
+## Task Overview
 
 **Objective**:  
 Monitor simulated system logs using SIEM tools (Splunk and ELK Stack), identify suspicious activity, classify incidents, and draft a response plan.
@@ -21,7 +21,7 @@ Monitor simulated system logs using SIEM tools (Splunk and ELK Stack), identify 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - 🔹 Splunk (Free Trial)
 - 🔹 ELK Stack (Elasticsearch, Logstash, Kibana)
@@ -30,7 +30,7 @@ Monitor simulated system logs using SIEM tools (Splunk and ELK Stack), identify 
 
 ---
 
-## 📄 Deliverables
+## Deliverables
 
 - `Cybersecurity_Task2_Report.pdf` – Includes:
   - SIEM Setup (Splunk & ELK)
@@ -42,7 +42,7 @@ Monitor simulated system logs using SIEM tools (Splunk and ELK Stack), identify 
 
 ---
 
-## 🖼️ Sample Alerts Investigated
+## Sample Alerts Investigated
 
 - Multiple failed login attempts on user `admin`
 - Malware detection on host `192.168.1.23`
@@ -50,7 +50,7 @@ Monitor simulated system logs using SIEM tools (Splunk and ELK Stack), identify 
 
 ---
 
-## 📬 Communication Simulation
+## Communication Simulation
 
 The report also includes a **sample email** to management summarizing the incident response steps and findings.
 
